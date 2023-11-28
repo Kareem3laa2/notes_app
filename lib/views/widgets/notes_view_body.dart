@@ -24,7 +24,7 @@ class NotesItem extends StatelessWidget {
               child: Text(
                 'Build your Career with Tharwat Samy',
                 style: TextStyle(
-                    fontSize: 20, color: Colors.black.withOpacity(0.5)),
+                    fontSize: 18, color: Colors.black.withOpacity(0.5)),
               ),
             ),
             trailing: IconButton(
